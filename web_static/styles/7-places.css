@@ -1,0 +1,42 @@
+article.place-container {
+    margin: 20px;
+    padding: 20px;
+    width: 390px;
+    border: 1px solid  #FF5A5F;
+    border-radius: 4px;
+    text-align: center;
+    position: relative;
+}
+
+article.inline {
+    display: inline-block;
+}
+
+article.block {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.price {
+    padding-top: 0;
+    font-size: 33px;
+}
+
+.place-header {
+    font-size: 30px;
+    color: black;
+    /* display: inline-block; */
+}
+
+p.info-text {
+    margin-top: 5px;
+}
+
+section.places {
+    margin-left: 18%;
+    margin-right: 18%;
+}
+
+div.user {
+    text-align: left;
+}
